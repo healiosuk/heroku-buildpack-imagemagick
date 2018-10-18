@@ -1,3 +1,6 @@
+This is a forked and modified version of the [Heroku ImageMagick buildpack](https://github.com/ello/heroku-buildpack-imagemagick) with the PDF policy enabled to fix [this bug](https://app.asana.com/0/456595238006296/872243800492503).
+
+
 heroku-buildpack-imagemagick
 =================================
 
